@@ -1,0 +1,2 @@
+# Ambassadors
+Daily test
